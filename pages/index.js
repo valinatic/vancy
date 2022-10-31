@@ -53,7 +53,7 @@ export default function Home() {
           showSkeleton
           width={1000}
           height={400}
-          maxDelay={10000}
+          maxDelay={1000}
           src="https://raw.githubusercontent.com/valinatic/.github/main/assets/wicked.jpg"
           alt="Valinatic Banner"
         />
