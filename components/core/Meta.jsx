@@ -1,4 +1,4 @@
-import Head from "next/head";
+import Head from 'next/head'
 
 export default function Meta() {
   return (
@@ -35,5 +35,5 @@ export default function Meta() {
         content="https://raw.githubusercontent.com/valinatic/.github/main/assets/wicked.jpg"
       />
     </Head>
-  );
+  )
 }
