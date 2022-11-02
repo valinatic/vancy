@@ -15,7 +15,7 @@ export default function Home() {
         <meta name="robots" content="noindex, nofollow" />
         <meta name="description" content="THE HOME OF REBEL DEVELOPER'S." />
         <meta name="robots" content="noindex, nofollow" />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
         <meta name="revisit-after" content="7 days" />
         <meta name="author" content="@valinatic" />
