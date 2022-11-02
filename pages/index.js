@@ -1,14 +1,14 @@
-import Head from "next/head";
-import styles from "../styles/Home.module.css";
-import { Image } from "@nextui-org/react";
-import Meta from "../components/Meta";
+import Head from 'next/head'
+import styles from '../styles/Home.module.css'
+import { Image } from '@nextui-org/react'
 
 export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
         <title>Valinatic</title>
-        <link rel="icon"
+        <link
+          rel="icon"
           href="https://avatars.githubusercontent.com/u/115374401?s=400&u=79af223485ae14410b899d6a7cf707d8c362f315&v=4"
         />
         <meta name="title" content="Valinatic" />
@@ -67,5 +67,5 @@ export default function Home() {
         THE HOME OF REBEL DEVELOPER&apos;S.
       </footer>
     </div>
-  );
+  )
 }
