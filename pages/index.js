@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import { Image } from '@nextui-org/react'
+import Nav from '~/components/widgets/nav/Nav.jsx'
 
 export default function Home() {
   return (
@@ -42,6 +43,7 @@ export default function Home() {
           content="https://raw.githubusercontent.com/valinatic/.github/main/assets/wicked.jpg"
         />
       </Head>
+      <Nav />
       <main className={styles.main}>
         <h1 className={styles.title}>We&apos;ll be back.</h1>
         <p className={styles.description}>
