@@ -41,7 +41,7 @@ export default function Home() {
           property="twitter:image"
           content="https://raw.githubusercontent.com/valinatic/.github/main/assets/wicked.jpg"
         />
-        <script async defer data-website-id="258a7e5c-1684-41fe-9507-651aad823637" src="https://my-umami.up.railway.app/umami.js"/>
+        <script async src="https://umami.valinatic.tech/script.js" data-website-id="457556ed-0c64-4a9b-b5e1-edb82c236271"></script>
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>We&apos;ll be back.</h1>
